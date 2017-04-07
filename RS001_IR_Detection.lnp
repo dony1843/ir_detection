@@ -1,0 +1,13 @@
+"main.obj",
+"ADC.obj",
+"delay.obj",
+"EEPROM.obj",
+"Exti.obj",
+"GPIO.obj",
+"PCA.obj",
+"Soft_UART.obj",
+"timer.obj",
+"USART.obj",
+"user_led.obj" 
+TO "RS001_IR_Detection" 
+RAMSIZE(256) 
